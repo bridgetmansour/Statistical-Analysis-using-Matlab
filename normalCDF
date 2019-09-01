@@ -21,7 +21,6 @@ y = (exp((-intervals.^2)./2))./(2*pi);
 plot(intervals,y);
 
 
-
 p = normcdf(intervals);
 
 plot(intervals,p);
