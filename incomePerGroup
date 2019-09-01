@@ -1,4 +1,4 @@
-hist(age);
+hist(age); 
 hist(capital_gain);
 hist(hours_per_week);
 
