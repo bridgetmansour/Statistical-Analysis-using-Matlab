@@ -52,7 +52,7 @@ R = input('R: ');
 
 Scounter = 0;
 
-xx = R*length(M);
+xx = R * length(M);
 Menc = zeros(1,xx);
 for b = 1:1000
 
